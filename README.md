@@ -22,6 +22,19 @@ AUVRION/
 ├── README.md
 └── .gitignore
 ```
+## Screenshots
+
+### 1. Working
+![AUVRION working](screenshots/working.png)
+
+### 2. Commands
+![AUVRION commands](screenshots/cmd.png)
+
+### 3. Scientific Calculator
+![AUVRION Calculator](screenshots/calc.png)
+
+### 4. To do List
+![AUVRION ToDo list](screenshots/todolist.png)
 
 ## Requirements
 
